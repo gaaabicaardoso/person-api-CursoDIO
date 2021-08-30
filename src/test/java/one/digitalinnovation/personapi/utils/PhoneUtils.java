@@ -4,6 +4,7 @@ import one.digitalinnovation.personapi.dto.request.PhoneDTO;
 import one.digitalinnovation.personapi.entity.Phone;
 import one.digitalinnovation.personapi.enums.PhoneType;
 
+//Classe inclusa no pacote da aula (falta estudar implementação)
 public class PhoneUtils {
 
     private static final String PHONE_NUMBER = "1199999-9999";
