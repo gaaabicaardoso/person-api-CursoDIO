@@ -1,4 +1,4 @@
-# Projeto desenvolvido para curso da Digital Innovation
+# Projeto desenvolvido para curso da Digital Innovation One
 
 ## Objetivo:
 Desenvolver um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
