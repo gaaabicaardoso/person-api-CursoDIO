@@ -1,9 +1,9 @@
-#Projeto desenvolvido para curso da Digital Innovation
+# Projeto desenvolvido para curso da Digital Innovation One
 
 ## Objetivo:
 Desenvolver um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
 
-###Tópicos desenvolvidos e abordados:
+### Tópicos desenvolvidos e abordados:
 
 * Setup inicial de projeto com o Spring Boot Initialzr 
 * Criação de modelo de dados para o mapeamento de entidades em bancos de dados
@@ -13,7 +13,7 @@ Desenvolver um pequeno sistema para o gerenciamento de pessoas de uma empresa at
 * Implantação do sistema na nuvem através do Heroku
 * Testes da API no Postman
 
-###Pré-requisitos para a execução do projeto desenvolvido:
+### Pré-requisitos para a execução do projeto desenvolvido:
 
 * Java 11 ou versões superiores.
 * Maven 3.6.3 ou versões superiores.
@@ -23,7 +23,7 @@ Desenvolver um pequeno sistema para o gerenciamento de pessoas de uma empresa at
 * Conta no Heroku para o deploy do projeto na nuvem
 * Conta no Postman para testes da API
 
-###Links:
+### Links:
 
 * [Site oficial do Spring](https://spring.io/)
 * [Site oficial do Spring Initialzr, para setup do projeto](https://start.spring.io/)
